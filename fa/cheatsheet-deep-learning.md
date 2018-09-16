@@ -18,8 +18,7 @@
 
 **4. Architecture ― The vocabulary around neural networks architectures is described in the figure below:**
 
-&#10230;
-
+معماری - واژه معماری در شبکه های عصبی به شکل زیر اطلاق میشود: 
 <br>
 
 **5. [Input layer, hidden layer, output layer]**
@@ -30,13 +29,13 @@
 
 **6. By noting i the ith layer of the network and j the jth hidden unit of the layer, we have:**
 
-&#10230;
+با ذکر i به عنوان لایه iام و j به عنوان واحد jام مخفی از لایه ، داریم:
 
 <br>
 
 **7. where we note w, b, z the weight, bias and output respectively.**
 
-&#10230;
+که به ترتیب w،b،z وزن ، بایاس و خروجی هستند.
 
 <br>
 
@@ -180,7 +179,7 @@
 
 **31. Definitions**
 
-&#10230;
+تعاریف 
 
 <br>
 
@@ -192,7 +191,7 @@
 
 **33. S is the set of states**
 
-&#10230;
+S مجموعه ای از حالات است
 
 <br>
 
@@ -294,13 +293,13 @@
 
 **50. View PDF version on GitHub**
 
-&#10230;
+نسخه PDF را در گیت هاب ببینید
 
 <br>
 
 **51. [Neural Networks, Architecture, Activation function, Backpropagation, Dropout]**
 
-&#10230;
+[شبکه های عصبی،معماری،توابع فعالسازی،پس انتشار خطا،حذف اتصال]
 
 <br>
 
