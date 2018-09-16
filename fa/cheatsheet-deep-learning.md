@@ -66,13 +66,14 @@
 
 **12. Backpropagation ― Backpropagation is a method to update the weights in the neural network by taking into account the actual output and the desired output. The derivative with respect to weight w is computed using chain rule and is of the following form:**
 
-&#10230;
-
+پس انتشار خطا - پس انتشار خطا روشی برای بروزرسانی وزن ها با توجه به خروجی واقعی و خروجی مورد انتظار در شبکه عصبی است . مشتق نسبت به وزن W توسط قاعده زنجیری
+ محاسبه میشود و به شکل زیر است:
+ 
 <br>
 
 **13. As a result, the weight is updated as follows:**
 
-&#10230;
+در نتیجه، وزن به صورت زیر بروز رسانی میشود:
 
 <br>
 
