@@ -35,7 +35,7 @@
 
 **7. where we note w, b, z the weight, bias and output respectively.**
 
-که به ترتیب w،b،z وزن ، بایاس و خروجی هستند.
+که به ترتیب w،b،z وزن ، انحراف و خروجی هستند.
 
 <br>
 
