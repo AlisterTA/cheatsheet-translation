@@ -12,7 +12,7 @@
 
 **3. Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.**
 
-شبکه های عصبی یک کلاس از مدل هایی هستند که با لایه بندی ساخته میشوند(ساختاری لایه مانند دارند). شبکه های عصبی کانولوشن (CNN) و شبکه های عصبی بازگشتی (RNN) انواع رایج شبکه های عصبی هستند.
+شبکه های عصبی یک کلاس از مدل هایی هستند که با لایه بندی ساخته میشوند(ساختاری لایه مانند دارند). شبکه های عصبی پیچشی ( کانولوشن (CNN)) و شبکه های عصبی بازگشتی (RNN) انواع رایج شبکه های عصبی هستند.
 
 <br>
 
@@ -24,7 +24,7 @@
 
 **5. [Input layer, hidden layer, output layer]**
 
-&#10230;
+[لایه ورودی،لایه پنهان،لایه خروجی]
 
 <br>
 
@@ -42,13 +42,13 @@
 
 **8. Activation function ― Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:**
 
-&#10230;
+تابع فعال سازی - توابع فعال سازی در انتهای لایه پنهان برای معرفی پیچیدگی غیر خطی به مدل استفاده میشود.در اینجا رایج ترین آنها نمایش داده شده است:
 
 <br>
 
 **9. [Sigmoid, Tanh, ReLU, Leaky ReLU]**
 
-&#10230;
+[سیگموئید،تانژانت هذلولوی،یکسو ساز،یکسوساز رخنه گر]
 
 <br>
 
@@ -306,13 +306,13 @@
 
 **52. [Convolutional Neural Networks, Convolutional layer, Batch normalization]**
 
-&#10230;
+[شبکه های عصبی پیچشی (کانولوشنال)،لایه پیچشی (کانولوشنال)،نرمال سازی دسته ای ]
 
 <br>
 
 **53. [Recurrent Neural Networks, Gates, LSTM]**
 
-&#10230;
+[شبکه های عصبی بازگشتی،گیت ها (Gates)،حافظه طولانی کوتاه-مدت (LSTM)]
 
 <br>
 
