@@ -1,6 +1,6 @@
 **1. Deep Learning cheatsheet**
 
-&#10230;
+برگه تقلب یادگیری ژرق(عمیق)
 
 <br>
 
@@ -12,7 +12,7 @@
 
 **3. Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.**
 
-&#10230;
+شبکه های عصبی یک کلاس از مدل هایی هستند که با لایه بندی ساخته میشوند(ساختاری لایه مانند دارند). شبکه های عصبی کانولوشن (CNN) و شبکه های عصبی بازگشتی (RNN) انواع رایج شبکه های عصبی هستند.
 
 <br>
 
