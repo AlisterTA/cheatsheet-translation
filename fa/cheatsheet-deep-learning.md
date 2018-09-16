@@ -79,43 +79,43 @@
 
 **14. Updating weights ― In a neural network, weights are updated as follows:**
 
-&#10230;
+بروز رسانی وزن ها - در یک شبکه عصبی، وزن ها به صورت زیر بروز رسانی میشوند:
 
 <br>
 
 **15. Step 1: Take a batch of training data.**
 
-&#10230;
+گام 1: یک دسته از نمونه های آموزشی را بگیر.
 
 <br>
 
 **16. Step 2: Perform forward propagation to obtain the corresponding loss.**
 
-&#10230;
+گام دوم: الگوریتم انتشار رو به جلو را برای بدست آوردن هزینه مربوطه اجرا کن.
 
 <br>
 
 **17. Step 3: Backpropagate the loss to get the gradients.**
 
-&#10230;
+گام 3: هزینه را به عقب انتشار بده تا گرادیان ها بدست آیند.
 
 <br>
 
 **18. Step 4: Use the gradients to update the weights of the network.**
 
-&#10230;
+گام 4: از گرادیان ها برای بروز رسانی وزن های شبکه استفاده کن.
 
 <br>
 
 **19. Dropout ― Dropout is a technique meant at preventing overfitting the training data by dropping out units in a neural network. In practice, neurons are either dropped with probability p or kept with probability 1−p**
 
-&#10230;
+حذف تصادفی – حذف تصادفی یک تکنیک برای جلوگیری از بیش بر ارزش شدن داده های آموزشی با حذف تصادفی اتصال ها در یک شبکه عصبی است. در عمل، نرون ها با احتمال p حذف یا با احتمال 1-p حفظ میشوند. 
 
 <br>
 
 **20. Convolutional Neural Networks**
 
-&#10230;
+شبکه های عصبی پیچشی ( کانولوشنی)
 
 <br>
 
@@ -139,19 +139,19 @@
 
 **24. Recurrent Neural Networks**
 
-&#10230;
+شبکه های عصبی برگشتی
 
 <br>
 
 **25. Types of gates ― Here are the different types of gates that we encounter in a typical recurrent neural network:**
 
-&#10230;
+انواع گیت ها - اینها انواع مختلف گیت هایی هستند که ما در یک شبکه عصبی برگشتی معمولی به آنها برمیخوریم :
 
 <br>
 
 **26. [Input gate, forget gate, gate, output gate]**
 
-&#10230;
+[گیت ورودی، گیت فراموشی،گیت،گیت خروجی]
 
 <br>
 
@@ -169,7 +169,7 @@
 
 **29. Reinforcement Learning and Control**
 
-&#10230;
+یادگیری تقویتی و کنترل
 
 <br>
 
