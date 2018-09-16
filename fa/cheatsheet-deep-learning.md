@@ -53,13 +53,14 @@
 
 **10. Cross-entropy loss ― In the context of neural networks, the cross-entropy loss L(z,y) is commonly used and is defined as follows:**
 
-&#10230;
+تابع هزینه آنتروپی متقابل - 
+در متن شبکه های عصبی ، عموما از تابع هزینه آنتروپی متقابل L(z,y) استفاده میشود و به صورت زیر تعریف میشود:
 
 <br>
 
 **11. Learning rate ― The learning rate, often noted α or sometimes η, indicates at which pace the weights get updated. This can be fixed or adaptively changed. The current most popular method is called Adam, which is a method that adapts the learning rate.**
 
-&#10230;
+نرخ یادگیری - نرخ یادگیری اغلب با نماد α و گاهی اوقات با نماد η نمایش داده میشود و بیانگر سرعت (گام) بروزرسانی وزن ها است که میتواند مقداری ثابت یا به صورت تطبیقی تفییر کند .محبوبترین متد حال حاضر Adam نام دارد، متدی است که نرخ یادگیری را در حین فرآیند آموزش تنظیم می‌کند .
 
 <br>
 
