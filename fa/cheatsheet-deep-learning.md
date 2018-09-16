@@ -12,7 +12,7 @@
 
 **3. Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.**
 
-شبکه های عصبی یک کلاس از مدل هایی هستند که با لایه بندی ساخته میشوند(ساختاری لایه مانند دارند). شبکه های عصبی پیچشی ( کانولوشن (CNN)) و شبکه های عصبی بازگشتی (RNN) انواع رایج شبکه های عصبی هستند.
+شبکه های عصبی یک کلاس از مدل هایی هستند که با لایه بندی ساخته میشوند(ساختاری لایه مانند دارند). شبکه های عصبی پیچشی ( کانولوشنی (CNN)) و شبکه های عصبی برگشتی (RNN) انواع رایج شبکه های عصبی هستند.
 
 <br>
 
@@ -299,19 +299,19 @@ S مجموعه ای از حالات است
 
 **51. [Neural Networks, Architecture, Activation function, Backpropagation, Dropout]**
 
-[شبکه های عصبی،معماری،توابع فعالسازی،پس انتشار خطا،حذف اتصال]
+[شبکه های عصبی،معماری،توابع فعالسازی،پس انتشار خطا،حذف تصادفی]
 
 <br>
 
 **52. [Convolutional Neural Networks, Convolutional layer, Batch normalization]**
 
-[شبکه های عصبی پیچشی (کانولوشنال)،لایه پیچشی (کانولوشنال)،نرمال سازی دسته ای ]
+[شبکه های عصبی پیچشی (کانولوشنی)،لایه پیچشی (کانولوشنی)،نرمال سازی دسته ای ]
 
 <br>
 
 **53. [Recurrent Neural Networks, Gates, LSTM]**
 
-[شبکه های عصبی بازگشتی،گیت ها (Gates)،حافظه طولانی کوتاه-مدت (LSTM)]
+[شبکه های عصبی بازگشتی،گیت ها (Gates)،حافظه کوتاه‌-مدت طولانی (LSTM)]
 
 <br>
 
