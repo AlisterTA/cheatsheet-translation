@@ -127,13 +127,13 @@
 
 **22. Batch normalization ― It is a step of hyperparameter γ,β that normalizes the batch {xi}. By noting μB,σ2B the mean and variance of that we want to correct to the batch, it is done as follows:**
 
-&#10230;
+22. نرمال سازی دسته ای - یک گام از ابر پارامتر های γ,β است که دسته {xi} را نرمال میکند.نماد μB و σ2B به میانگین و واریانس دسته ای که میخواهیم آن را اصلاح کنیم اشاره دارد که به صورت زیر انجام میشود:
 
 <br>
 
 **23. It is usually done after a fully connected/convolutional layer and before a non-linearity layer and aims at allowing higher learning rates and reducing the strong dependence on initialization.**
 
-&#10230;
+23. معمولا بعد از یک لایه تماما متصل/لایه کانولوشنی و قبل از لایه غیر خطی اعمال میشود و این جازه را به ما میدهد که نرخ یادگیری بالاتر داشته باشیم از طرفی وابستگی شدید مدل را به مقدار دهی اولیه کاهش میدهد. 
 
 <br>
 
@@ -157,13 +157,13 @@
 
 **27. [Write to cell or not?, Erase a cell or not?, How much to write to cell?, How much to reveal cell?]**
 
-&#10230;
+27. [در سلول بنویسد یا خیر؟، سلول را پاک کند یا خیر؟ چه مقدار در سلول بنویسد؟، چه مقدار به سلول بروز دهید؟]
 
 <br>
 
 **28. LSTM ― A long short-term memory (LSTM) network is a type of RNN model that avoids the vanishing gradient problem by adding 'forget' gates.**
 
-&#10230;
+28. یک شبکه حافظه کوتاه‌-مدت طولانی (LSTM) یک نوع از مدل های RNN است که مشکل ناپدید شدن گرادیان را با اضافه کردن 'گیت فراموشی' حل میکند.
 
 <br>
 
@@ -175,7 +175,7 @@
 
 **30. The goal of reinforcement learning is for an agent to learn how to evolve in an environment.**
 
-&#10230;
+30. هدف یادگیری تقویتی برای یک عامل این است که یادبگیرد در یک محیط چگونه رشد کند
 
 <br>
 
@@ -199,7 +199,7 @@ S مجموعه ای از حالات است
 
 **34. A is the set of actions**
 
-&#10230;
+34. A مجموعه ای از اکشن هاست
 
 <br>
 
