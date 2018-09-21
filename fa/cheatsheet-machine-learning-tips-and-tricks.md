@@ -12,13 +12,13 @@
 
 **3. In a context of a binary classification, here are the main metrics that are important to track in order to assess the performance of the model.**
 
-3. در اینجا معیارهای اساسی و مهم برای پیگیری در زمینه¬ی دسته¬بندی باینری و به منظور ارزیابی عملکرد مدل ارائه می¬شوند.
+3. در اینجا معیارهای اساسی و مهم برای پیگیری در زمینه ی طبقه بندی دودویی و به منظور ارزیابی عملکرد مدل ارائه میشوند.
 
 <br>
 
 **4. Confusion matrix ― The confusion matrix is used to have a more complete picture when assessing the performance of a model. It is defined as follows:**
 
-4. ماتریس در هم ریختگی – از ماتریس در هم ریختگی برای حصول به تصویری جامع¬تر در ارزیابی عملکرد مدل استفاده می¬شود. این ماتریس بصورت زیر تعریف می¬شود:
+4. ماتریس درهم ریختگی – از ماتریس درهم ریختگی برای دست یافتن به تصویری جامعتر در ارزیابی عملکرد مدل استفاده میشود. این ماتریس بصورت زیر تعریف میشود:
 
 <br>
 
@@ -30,7 +30,7 @@
 
 **6. Main metrics ― The following metrics are commonly used to assess the performance of classification models:**
 
-6. معیارهای اصلی - معیارهای زیر معمولا برای ارزیابی عملکرد مدل¬های دسته¬بندی بکار برده می¬شوند.
+6. معیارهای اصلی - معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای طبقه بندی بکار برده میشوند.
 
 <br>
 
@@ -48,31 +48,31 @@
 
 **9. How accurate the positive predictions are**
 
-9. میزان دقت پیش¬بینی¬های مثبت عبارتست از:
+9. میزان دقت پیش بینی های مثبت عبارتست از:
 
 <br>
 
 **10. Coverage of actual positive sample**
 
-10.  پوشش نمونه¬ی مثبت واقعی 
+10.  پوشش نمونه ی مثبت واقعی 
 
 <br>
 
 **11. Coverage of actual negative sample**
 
-11. پوشش نمونه¬ی منفی واقعی 
+11. پوشش نمونه ی منفی واقعی 
 
 <br>
 
 **12. Hybrid metric useful for unbalanced classes**
 
-12. معیار مرکب موثر در کلاس¬های نامتعادل
+12. معیار ترکیبی، موثر در کلاس های نامتوازن
 
 <br>
 
 **13. ROC ― The receiver operating curve, also noted ROC, is the plot of TPR versus FPR by varying the threshold. These metrics are are summed up in the table below:**
 
-13. ROC - منحنی عملیاتی گیرنده که تحت عنوان ROC نیز شناخته می¬شود تصویر TPR به ازای FPR و با تغییر مقادیر آستانه است. این معیارها بصورت خلاصه در جدول زیر آورده شده¬اند:
+13. ROC - منحنی مشخصه عملکرد سیستم که تحت عنوان ROC نیز شناخته میشود تصویر TPR به ازای FPR و با تغییر مقادیر آستانه است. این معیارها بصورت خلاصه در جدول زیر آورده شده اند:
 
 <br>
 
@@ -84,7 +84,7 @@
 
 **15. AUC ― The area under the receiving operating curve, also noted AUC or AUROC, is the area below the ROC as shown in the following figure:**
 
-15. AUC – سطح زیر منحنی عملیاتی گیرنده که تحت عنوان AUC یا AUROC نیز شناخته می¬شود عبارتست از سطح زیر ROC که در شکل زیر نشان داده شده است:
+15. AUC – مساحت زير منحني که تحت عنوان AUC یا AUROC نیز شناخته میشود عبارتست از سطح زیر ROC که در شکل زیر نشان داده شده است:
 
 <br>
 
@@ -96,31 +96,31 @@
 
 **17. Basic metrics ― Given a regression model f, the following metrics are commonly used to assess the performance of the model:**
 
-17. معیارهای اساسی - با توجه به مدل رگرسیون f، معمولا از معیارهای زیر برای ارزیابی عملکرد مدل استفاده می-شود:
+17. معیارهای اساسی - با توجه به مدل رگرسیون f، معمولا از معیارهای زیر برای ارزیابی عملکرد مدل استفاده میشود:
 
 <br>
 
 **18. [Total sum of squares, Explained sum of squares, Residual sum of squares]**
 
-18. [مجموع کل مربعات، مجموع مربعات توضیح داده شده، مجموع مربعات مانده]
+18. [مجموع کل مربعات، مجموع مربعات توضیح داده شده، مجموع مربعات باقیمانده]
 
 <br>
 
 **19. Coefficient of determination ― The coefficient of determination, often noted R2 or r2, provides a measure of how well the observed outcomes are replicated by the model and is defined as follows:**
 
-19. ضریب تعیین¬کنندگی - ضریب تعیین¬کنندگی که اغلب با R2 یا r2 نشان داده می¬شود معیاری از تکرار مناسب نتایج مشاهده شده توسط مدل را ارائه می¬دهد که بصورت زیر تعریف می¬شود:
+19. ضریب تشخیص - ضریب تشخیص که اغلب با R2 یا r2 نشان داده میشود معیاری از تکرار مناسب نتایج مشاهده شده توسط مدل را ارائه میدهد که بصورت زیر تعریف میشود:
 
 <br>
 
 **20. Main metrics ― The following metrics are commonly used to assess the performance of regression models, by taking into account the number of variables n that they take into consideration:**
 
-20. معیارهای اصلی – معمولا از معیارهای زیر برای ارزیابی عملکرد مدل¬های رگرسیون و با توجه به تعداد متغیرهای n استفاده می¬شود که در نظر می¬گیرند:
+20. معیارهای اصلی – از معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای رگرسیون با توجه به تعداد متغیرهای n ی که در نظر میگیرند،استفاده میشود:
 
 <br>
 
 **21. where L is the likelihood and ˆσ2 is an estimate of the variance associated with each response.**
 
-21. که L نشان¬دهنده¬ی احتمال است و σ2 تخمینی از واریانس مربوط به هر یک از پاسخ¬ها است.
+21. که L نشان دهنده درست نمایی و σ2 تخمینی از واریانس مربوط به هر یک از پاسخ ها است.
 
 <br>
 
