@@ -121,7 +121,7 @@
 
 **21. Convolutional layer requirement ― By noting W the input volume size, F the size of the convolutional layer neurons, P the amount of zero padding, then the number of neurons N that fit in a given volume is such that:**
 
-&#10230;
+21. الزامات لایه کانولوشنی - با نمایش W اندازه توده ورودی، F اندازه نرون های لایه کانولوشنی ، P اندازه گسترش مرز (صفر)، تعداد نرونهای N که در توده داده شده قرار میگیرند برابر است با :
 
 <br>
 
