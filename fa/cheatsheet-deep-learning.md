@@ -211,19 +211,19 @@ S مجموعه ای از حالات است
 
 **36. γ∈[0,1[ is the discount factor**
 
-&#10230;
+36. γ∈[0,1]  عامل تنزیل است
 
 <br>
 
 **37. R:S×A⟶R or R:S⟶R is the reward function that the algorithm wants to maximize**
 
-&#10230;
+37- R:S×A⟶R یا R:S⟶R تابع پاداش است که الگوریتم ما میخواهد آن را بیشینه کند
 
 <br>
 
 **38. Policy ― A policy π is a function π:S⟶A that maps states to actions.**
 
-&#10230;
+38.  یک سیاست π تابعیست که π:S⟶A مجموعه حالات را به اکشن ها نگاشت میدهد.
 
 <br>
 
