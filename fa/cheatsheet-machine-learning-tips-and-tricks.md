@@ -132,43 +132,43 @@
 
 **23. Vocabulary ― When selecting a model, we distinguish 3 different parts of the data that we have as follows:**
 
-23. واژگان - هنگام انتخاب مدل، سه بخش مختلف از داده¬ها را به صورت زیر مشخص می¬کنیم:
+23. واژگان - هنگام انتخاب مدل، سه بخش مختلف از دادهها را به صورت زیر مشخص میکنیم:
 
 <br>
 
 **24. [Training set, Validation set, Testing set]**
 
-24. [مجموعه آموزشی، مجموعه اعتبارسنجی، مجموعه تست]
+24. [مجموعه آموزشی، مجموعه اعتبارسنجی، مجموعه آزمایش]
 
 <br>
 
 **25. [Model is trained, Model is assessed, Model gives predictions]**
 
-25. [مدل آموزش داده می¬شود، مدل ارزیابی می¬شود، مدل پیش¬بینی¬ها را ارائه می¬دهد]
+25. [مدل آموزش داده شده، مدل ارزیابی شده، مدل پیش بینی ها را ارائه میدهد]
 
 <br>
 
 **26. [Usually 80% of the dataset, Usually 20% of the dataset]**
 
-26. [معمولا 80% از مجموعه داده¬ها، معمولا 20% از مجموعه داده¬ها]
+26. [معمولا 80% از پایگاه داده، معمولا 20% از پایگاه داده ]
 
 <br>
 
 **27. [Also called hold-out or development set, Unseen data]**
 
-27. [این مجموعه تحت عنوان مجموعه کافی یا توسعه نیز شناخته می¬شود، داده¬های نامعین]
+27. [این مجموعه همچنین تحت عنوان مجموعه بیرون نگهدار(ارزیابی) یا توسعه نیز شناخته می شود، داده های دیده نشده]
 
 <br>
 
 **28. Once the model has been chosen, it is trained on the entire dataset and tested on the unseen test set. These are represented in the figure below:**
 
-28. هنگام انتخاب مدل، بر روی کل مجموعه داده¬ها آموزش داده شده و روی مجموعه داده¬های تست نامعین آزمایش می¬شود. این داده¬ها در شکل زیر نشان داده شده¬اند:
+28. هنگامی که مدل انتخاب شد،آن را بر روی کل مجموعه داده ها آموزش داده و بر روی مجموعه داده های دیده نشده آزمایش میشود. این داده ها در شکل زیر نشان داده شده اند:
 
 <br>
 
 **29. Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial training set. The different types are summed up in the table below:**
 
-29. اعتبارسنجی متقابل - اعتبارسنجی متقابل که بصورت CV نیز بیان می¬شود عبارتست از روشی برای انتخاب مدلی که بیش از حد به مجموعه آموزش اولیه تکیه نمی¬کند. انواع مختلفبصورت خلاصه در جدول زیر ارائه شده¬اند:
+29. اعتبارسنجی متقاطع - اعتبارسنجی متقاطع که بصورت CV نیز بیان میشود عبارتست از روشی برای انتخاب مدلی که بیش از حد به مجموعه آموزش اولیه تکیه نمیکند. انواع مختلف بصورت خلاصه در جدول زیر ارائه شده اند:
 
 <br>
 
@@ -180,43 +180,43 @@
 
 **31. [Generally k=5 or 10, Case p=1 is called leave-one-out]**
 
-31. [معمولا k=5 یا k=10، مورد p=1 تحت عنوان حذف یک [مورد] شناخته می¬شود]
+31. [معمولا k=5 یا k=10، مورد p=1 تحت عنوان حذف یک [مورد] شناخته میشود]
 
 <br>
 
 **32. The most commonly used method is called k-fold cross-validation and splits the training data into k folds to validate the model on one fold while training the model on the k−1 other folds, all of this k times. The error is then averaged over the k folds and is named cross-validation error.**
 
-32. متداول¬ترین روش عبارتست از اعتبار سنجی متقابل k برابر [بخشی] که داده¬های آموزشی را به k بخش تقسیم می¬کند تا مدل را روی یک بخش ثابت کند و در عین حال مدل را روی k-1 بخش دیگر آموزش دهد که همه¬ی آن¬ها k برابر انجام می¬شود. سپس میانگین خطا بر روی k بخش بدست آورده شده و خطای اعتبارسنجی متقابل نامیده می¬شود.
+32. متداولترین روش عبارتست از اعتبار سنجی متقاطع k برابر [بخشی] که داده های آموزشی را به k بخش تقسیم میکند تا مدل را روی یک بخش ثابت کند و در عین حال مدل را روی k-1 بخش دیگر آموزش دهد که همه ی آنها k دفعه انجام میشود. سپس میانگین خطا بر روی k بخش بدست آورده شده و خطای اعتبارسنجی متقاطع نامیده میشود.
 
 <br>
 
 **33. Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
 
-33. منظم¬سازی – هدف از روش منظم¬سازی عبارتست از جلوگیری از بیش¬تر شدن داده¬ها در مدل و در نتیجه با موضوعاتی با واریانس بالا سر و کار دارد. جدول زیر خلاصه¬ای از انواع روش¬های متداول در منظم¬سازی را ارائه می¬دهد.
+33. تنظیم – هدف از روش تنظیم عبارتست از جلوگیری از بیش برارزش شدن مدل توسط داده ها و در نتیجه فائق آمدن با مشکل واریانس بالا.جدول زیر خلاصه ای از انواع روشهای متداول در تنظیم را ارائه میدهد.
 
 <br>
 
 **34. [Shrinks coefficients to 0, Good for variable selection, Makes coefficients smaller, Tradeoff between variable selection and small coefficients]**
 
-34. [ضرایب را تا 0 کاهش می¬دهد، برای انتخاب متغیر مناسب است، ضرایب را کوچک¬تر می¬کند، بین انتخاب متغیر و ضرایب کوچک مصالحه می¬کند].
+34. [ضرایب را تا 0 کاهش میدهد، برای انتخاب متغیر مناسب است، ضرایب را کوچکتر میکند، بین انتخاب متغیر و ضرایب کوچک مصالحه میکند].
 
 <br>
 
 **35. Diagnostics**
 
-35. تشخیص¬ها
+35. تشخیص ها
 
 <br>
 
 **36. Bias ― The bias of a model is the difference between the expected prediction and the correct model that we try to predict for given data points.**
 
-36. بایاس  – بایاس مدل عبارتست از اختلاف پیش¬بینی مورد انتظار و مدل صحیح که تلاش می¬کنیم برای نقاط داده¬ی معینی پیش¬بینی کنیم.
+36. انحراف– انحراف مدل عبارتست از اختلاف بین پیش بینی مورد انتظار و مدل صحیح که تلاش میکنیم برای نقاط داده معینی پیش بینی کنیم.
 
 <br>
 
 **37. Variance ― The variance of a model is the variability of the model prediction for given data points.**
 
-37. واریانس - واریانس مدل عبارتست از تغییرپذیری پیش¬بینی مدل برای نقاط داده¬ی معین
+37. واریانس - واریانس مدل عبارتست از تغییرپذیری پیش بینی مدل برای نقاط داده معین
 
 <br>
 
