@@ -253,19 +253,19 @@ S مجموعه ای از حالات است
 
 **43. Value iteration algorithm ― The value iteration algorithm is in two steps:**
 
-&#10230;
+43. الگوریتم تکرار ارزش - الگوریتم تکرار ارزش دو گام دارد:
 
 <br>
 
 **44. 1) We initialize the value:**
 
-&#10230;
+44- 1) ارزش را مقدار دهی اولیه میکنیم:
 
 <br>
 
 **45. 2) We iterate the value based on the values before:**
 
-&#10230;
+ارزش را با توجه به ارزشهای قبلی تکرار میکنیم:
 
 <br>
 
@@ -319,4 +319,4 @@ S مجموعه ای از حالات است
 
 **54. [Reinforcement learning, Markov decision processes, Value/policy iteration, Approximate dynamic programming, Policy search]**
 
-&#10230;
+54. [ یادگیری تقویتی، فرایند های تصمیم گیری مارکوف، تکرار ارزش/سیاست ، برنامه نویسی پویا تقریبی، کنکاش سیاست]
