@@ -121,19 +121,19 @@
 
 **21. Convolutional layer requirement ― By noting W the input volume size, F the size of the convolutional layer neurons, P the amount of zero padding, then the number of neurons N that fit in a given volume is such that:**
 
-21. الزامات لایه کانولوشنی - با نمایش W اندازه توده ورودی، F اندازه نرون های لایه کانولوشنی ، P اندازه گسترش مرز (صفر)، تعداد نرونهای N که در توده داده شده قرار میگیرند برابر است با :
+الزامات لایه کانولوشنی - با نمایش W اندازه توده ورودی، F اندازه نرون های لایه کانولوشنی ، P اندازه گسترش مرز (صفر)، تعداد نرونهای N که در توده داده شده قرار میگیرند برابر است با :
 
 <br>
 
 **22. Batch normalization ― It is a step of hyperparameter γ,β that normalizes the batch {xi}. By noting μB,σ2B the mean and variance of that we want to correct to the batch, it is done as follows:**
 
-22. نرمال سازی دسته ای - یک گام از ابر پارامتر های γ,β است که دسته {xi} را نرمال میکند.نماد μB و σ2B به میانگین و واریانس دسته ای که میخواهیم آن را اصلاح کنیم اشاره دارد که به صورت زیر انجام میشود:
+نرمال سازی دسته ای - یک گام از ابر پارامتر های γ,β است که دسته {xi} را نرمال میکند.نماد μB و σ2B به میانگین و واریانس دسته ای که میخواهیم آن را اصلاح کنیم اشاره دارد که به صورت زیر انجام میشود:
 
 <br>
 
 **23. It is usually done after a fully connected/convolutional layer and before a non-linearity layer and aims at allowing higher learning rates and reducing the strong dependence on initialization.**
 
-23. معمولا بعد از یک لایه تماما متصل/لایه کانولوشنی و قبل از لایه غیر خطی اعمال میشود و این جازه را به ما میدهد که نرخ یادگیری بالاتر داشته باشیم از طرفی وابستگی شدید مدل را به مقدار دهی اولیه کاهش میدهد. 
+معمولا بعد از یک لایه تماما متصل/لایه کانولوشنی و قبل از لایه غیر خطی اعمال میشود و این جازه را به ما میدهد که نرخ یادگیری بالاتر داشته باشیم از طرفی وابستگی شدید مدل را به مقدار دهی اولیه کاهش میدهد. 
 
 <br>
 
@@ -157,13 +157,13 @@
 
 **27. [Write to cell or not?, Erase a cell or not?, How much to write to cell?, How much to reveal cell?]**
 
-27. [در سلول بنویسد یا خیر؟، سلول را پاک کند یا خیر؟ چه مقدار در سلول بنویسد؟، چه مقدار به سلول بروز دهید؟]
+[در سلول بنویسد یا خیر؟، سلول را پاک کند یا خیر؟ چه مقدار در سلول بنویسد؟، چه مقدار به سلول بروز دهید؟]
 
 <br>
 
 **28. LSTM ― A long short-term memory (LSTM) network is a type of RNN model that avoids the vanishing gradient problem by adding 'forget' gates.**
 
-28. یک شبکه حافظه کوتاه‌-مدت طولانی (LSTM) یک نوع از مدل های RNN است که مشکل ناپدید شدن گرادیان را با اضافه کردن 'گیت فراموشی' حل میکند.
+یک شبکه حافظه کوتاه‌-مدت طولانی (LSTM) یک نوع از مدل های RNN است که مشکل ناپدید شدن گرادیان را با اضافه کردن 'گیت فراموشی' حل میکند.
 
 <br>
 
@@ -175,7 +175,7 @@
 
 **30. The goal of reinforcement learning is for an agent to learn how to evolve in an environment.**
 
-30. هدف یادگیری تقویتی برای یک عامل این است که یادبگیرد در یک محیط چگونه رشد کند
+هدف یادگیری تقویتی برای یک عامل این است که یادبگیرد در یک محیط چگونه رشد کند
 
 <br>
 
@@ -187,7 +187,7 @@
 
 **32. Markov decision processes ― A Markov decision process (MDP) is a 5-tuple (S,A,{Psa},γ,R) where:**
 
-32. فرایندهای تصمیم‌گیری مارکوف- یک فرآیند تصمیم گیری مارکوف (به اختصار MDP) شامل پنج عنصر (S,A,{Psa},γ,R) است بطوریکه:
+فرایندهای تصمیم‌گیری مارکوف- یک فرآیند تصمیم گیری مارکوف (به اختصار MDP) شامل پنج عنصر (S,A,{Psa},γ,R) است بطوریکه:
 
 <br>
 
@@ -199,7 +199,7 @@ S مجموعه ای از حالات است
 
 **34. A is the set of actions**
 
-34. A مجموعه ای از اکشن هاست
+A مجموعه ای از اکشن هاست
 
 <br>
 
@@ -211,19 +211,19 @@ S مجموعه ای از حالات است
 
 **36. γ∈[0,1[ is the discount factor**
 
-36. γ∈[0,1]  عامل تنزیل است
+γ∈[0,1]  عامل تنزیل است
 
 <br>
 
 **37. R:S×A⟶R or R:S⟶R is the reward function that the algorithm wants to maximize**
 
-37- R:S×A⟶R یا R:S⟶R تابع پاداش است که الگوریتم ما میخواهد آن را بیشینه کند
+R:S×A⟶R یا R:S⟶R تابع پاداش است که الگوریتم ما میخواهد آن را بیشینه کند
 
 <br>
 
 **38. Policy ― A policy π is a function π:S⟶A that maps states to actions.**
 
-38.  یک سیاست π تابعیست که π:S⟶A مجموعه حالات را به اکشن ها نگاشت میدهد.
+یک سیاست π تابعیست که π:S⟶A مجموعه حالات را به اکشن ها نگاشت میدهد.
 
 <br>
 
@@ -253,13 +253,13 @@ S مجموعه ای از حالات است
 
 **43. Value iteration algorithm ― The value iteration algorithm is in two steps:**
 
-43. الگوریتم تکرار ارزش - الگوریتم تکرار ارزش دو گام دارد:
+الگوریتم تکرار ارزش - الگوریتم تکرار ارزش دو گام دارد:
 
 <br>
 
 **44. 1) We initialize the value:**
 
-44- 1) ارزش را مقدار دهی اولیه میکنیم:
+1) ارزش را مقدار دهی اولیه میکنیم:
 
 <br>
 
@@ -319,4 +319,4 @@ S مجموعه ای از حالات است
 
 **54. [Reinforcement learning, Markov decision processes, Value/policy iteration, Approximate dynamic programming, Policy search]**
 
-54. [ یادگیری تقویتی، فرایند های تصمیم گیری مارکوف، تکرار ارزش/سیاست ، برنامه نویسی پویا تقریبی، کنکاش سیاست]
+[ یادگیری تقویتی، فرایند های تصمیم گیری مارکوف، تکرار ارزش/سیاست ، برنامه نویسی پویا تقریبی، کنکاش سیاست]
