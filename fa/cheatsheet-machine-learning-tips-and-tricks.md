@@ -222,37 +222,37 @@
 
 **38. Bias/variance tradeoff ― The simpler the model, the higher the bias, and the more complex the model, the higher the variance.**
 
-38. مصالحه¬ی بایاس/واریانس – هر چقدر مدل ساده¬تر باشد، بایاس بیش¬تر خواهد بود و هرچقدر مدل پیچیده¬تر باشد واریانس بیش¬تر خواهد شد.
+38. تعادل بین انحراف/واریانس – هر چقدر مدل ساده تر باشد، انحراف بیشتر خواهد بود و هرچقدر مدل پیچیده تر باشد واریانس بیشتر خواهد شد.
 
 <br>
 
 **39. [Symptoms, Regression illustration, classification illustration, deep learning illustration, possible remedies]**
 
-39. [علائم، نمایش رگرسیون، نمایش طبقه¬بندی، نمایش یادگیری عمیق، اصلاحات احتمالی]
+39. [علائم، نمایش رگرسیون، نمایش طبقه بندی، نمایش یادگیری عمیق، اصلاحات احتمالی]
 
 <br>
 
 **40. [High training error, Training error close to test error, High bias, Training error slightly lower than test error, Very low training error, Training error much lower than test error, High variance]**
 
-40. [خطای بالای آموزش، خطای آموزش نزدیک به خطای آزمون، بایاس زیاد، خطای آموزش کمی کم¬تر از خطای تست، خطای آموزش بسیار کم، خطای آموزش بسیار پایین¬تر از خطای تست، واریانس بالا]
+40. [خطای بالای آموزش، خطای آموزش نزدیک به خطای آزمایش، انحراف زیاد، خطای آموزش کمی کمتر از خطای آزمایش، خطای آموزش بسیار کم، خطای آموزش بسیار پایینتر از خطای آزمایش، واریانس بالا]
 
 <br>
 
 **41. [Complexify model, Add more features, Train longer, Perform regularization, Get more data]**
 
-41. [مدل پیچیدگی، اضافه کردن ویژگی¬های بیش¬تر، آموزش طولانی¬تر، انجام منظم¬سازی، دریافت داده¬های بیش¬تر]
+41. [مدل پیچیدگی، اضافه کردن ویژگی های بیشتر، آموزش طولانی تر، انجام تنظیم، جمع آوری داده های بیشتر]
 
 <br>
 
 **42. Error analysis ― Error analysis is analyzing the root cause of the difference in performance between the current and the perfect models.**
 
-42. تجزیه و تحلیل خطا - تجزیه و تحلیل خطا به آنالیز علت اصلی اختلاف در عملکرد بین مدل¬های کنونی و کامل می¬پردازد.
+42. تجزیه و تحلیل خطا - تجزیه و تحلیل خطا به آنالیز علت اصلی اختلاف در عملکرد بین مدلهای کنونی و کامل میپردازد.
 
 <br>
 
 **43. Ablative analysis ― Ablative analysis is analyzing the root cause of the difference in performance between the current and the baseline models.**
 
-43. تجزیه و تحلیل آبلیتیو - تجزیه و تحلیل آبلیتیو به آنالیز علت اصلی اختلاف بین مدل¬های کنونی و پایه می¬پردازد.
+43. تجزیه و تحلیل آبلیتیو - تجزیه و تحلیل آبلیتیو به آنالیز علت اصلی اختلاف بین مدلهای کنونی و پایه میپردازد.
 
 <br>
 
