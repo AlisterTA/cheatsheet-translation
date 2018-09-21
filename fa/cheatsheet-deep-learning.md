@@ -29,7 +29,7 @@
 
 **6. By noting i the ith layer of the network and j the jth hidden unit of the layer, we have:**
 
-با ذکر i به عنوان لایه iام و j به عنوان واحد jام مخفی از لایه ، داریم:
+با نمایش i به عنوان لایه iام و j به عنوان واحد jام مخفی از لایه ، داریم:
 
 <br>
 
