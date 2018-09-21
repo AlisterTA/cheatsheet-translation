@@ -235,8 +235,7 @@ R:S×A⟶R یا R:S⟶R تابع پاداش است که الگوریتم ما م
 
 **40. Value function ― For a given policy π and a given state s, we define the value function Vπ as follows:**
 
-&#10230;
-
+تابع ارزش - برای یک سیایت
 <br>
 
 **41. Bellman equation ― The optimal Bellman equations characterizes the value function Vπ∗ of the optimal policy π∗:**
@@ -277,19 +276,20 @@ R:S×A⟶R یا R:S⟶R تابع پاداش است که الگوریتم ما م
 
 **47. times took action a in state s and got to s′**
 
-&#10230;
+مدت زمانی که اکشن a در حالت s است و به حالت 
+s′ میرود
 
 <br>
 
 **48. times took action a in state s**
 
-&#10230;
+مدت زمانی که اکشن a در حالت s است
 
 <br>
 
 **49. Q-learning ― Q-learning is a model-free estimation of Q, which is done as follows:**
 
-&#10230;
+یادگیری کیو - یادگیری کیو نوعی از یادگیری تقویتی بدون مدل برای تخمین Q است که به صورت زیر انجام میشود:
 
 <br>
 
