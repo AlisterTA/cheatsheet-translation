@@ -187,7 +187,7 @@
 
 **32. Markov decision processes ― A Markov decision process (MDP) is a 5-tuple (S,A,{Psa},γ,R) where:**
 
-&#10230;
+32. فرایندهای تصمیم‌گیری مارکوف- یک فرآیند تصمیم گیری مارکوف (به اختصار MDP) شامل پنج عنصر (S,A,{Psa},γ,R) است بطوریکه:
 
 <br>
 
