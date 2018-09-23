@@ -1,36 +1,36 @@
 **1. Machine Learning tips and tricks cheatsheet**
 
-1. برگه ی یادداشت  نکات و ترفندهای یادگیری ماشین
+1. راهنمای کوتاه نکات و ترفندهای یادگیری ماشین
 
 <br>
 
 **2. Classification metrics**
 
-2. معیارهای دسته بندی
+2. معیارهای دسته‌بندی
 
 <br>
 
 **3. In a context of a binary classification, here are the main metrics that are important to track in order to assess the performance of the model.**
 
-3. در اینجا معیارهای اساسی و مهم برای پیگیری در زمینه ی طبقه بندی دودویی و به منظور ارزیابی عملکرد مدل ارائه میشوند.
+3. معیارهای اساسی و مهم برای پیگیری در زمینه‌ی دسته‌بندی دودویی و به منظور ارزیابی عملکرد مدل در زیر آمده‌اند.
 
 <br>
 
 **4. Confusion matrix ― The confusion matrix is used to have a more complete picture when assessing the performance of a model. It is defined as follows:**
 
-4. ماتریس درهم ریختگی – از ماتریس درهم ریختگی برای دست یافتن به تصویری جامعتر در ارزیابی عملکرد مدل استفاده میشود. این ماتریس بصورت زیر تعریف میشود:
+4. ماتریس درهم ریختگی – از ماتریس درهم‌ریختگی برای دست یافتن به تصویری جامعتر در ارزیابی عملکرد مدل استفاده میشود. این ماتریس بصورت زیر تعریف میشود:
 
 <br>
 
 **5. [Predicted class, Actual class]**
 
-5. [کلاس پیش¬بینی¬شده، کلاس واقعی]
+5. [دسته پیش‌بینی‌شده، دسته واقعی]
 
 <br>
 
 **6. Main metrics ― The following metrics are commonly used to assess the performance of classification models:**
 
-6. معیارهای اصلی - معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای طبقه بندی بکار برده میشوند.
+6. معیارهای اصلی - معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای دسته‌بندی بکار برده می‌شوند.
 
 <br>
 
@@ -48,19 +48,19 @@
 
 **9. How accurate the positive predictions are**
 
-9. میزان دقت پیش بینی های مثبت عبارتست از:
+9. میزان دقت پیش‌بینی های مثبت عبارتست از:
 
 <br>
 
 **10. Coverage of actual positive sample**
 
-10.  پوشش نمونه ی مثبت واقعی 
+10.  پوشش نمونه‌ی مثبت واقعی 
 
 <br>
 
 **11. Coverage of actual negative sample**
 
-11. پوشش نمونه ی منفی واقعی 
+11. پوشش نمونه‌ی منفی واقعی 
 
 <br>
 
@@ -72,7 +72,7 @@
 
 **13. ROC ― The receiver operating curve, also noted ROC, is the plot of TPR versus FPR by varying the threshold. These metrics are are summed up in the table below:**
 
-13. ROC - منحنی مشخصه عملکرد سیستم که تحت عنوان ROC نیز شناخته میشود تصویر TPR به ازای FPR و با تغییر مقادیر آستانه است. این معیارها بصورت خلاصه در جدول زیر آورده شده اند:
+13. ROC - منحنی مشخصه عملکرد سیستم که تحت عنوان ROC نیز شناخته می‌شود تصویر TPR به ازای FPR و با تغییر مقادیر آستانه است. این معیارها بصورت خلاصه در جدول زیر آورده شده اند:
 
 <br>
 
@@ -84,13 +84,13 @@
 
 **15. AUC ― The area under the receiving operating curve, also noted AUC or AUROC, is the area below the ROC as shown in the following figure:**
 
-15. AUC – مساحت زير منحني که تحت عنوان AUC یا AUROC نیز شناخته میشود عبارتست از سطح زیر ROC که در شکل زیر نشان داده شده است:
+15. AUC – مساحت زير منحنی که تحت عنوان AUC یا AUROC نیز شناخته می‌شود عبارتست از سطح زیر ROC که در شکل زیر نشان داده شده است:
 
 <br>
 
 **16. [Actual, Predicted]**
 
-16. [واقعی، پیش¬بینی¬شده]
+16. [واقعی، پیش‌بینی‌شده]
 
 <br>
 
@@ -108,13 +108,13 @@
 
 **19. Coefficient of determination ― The coefficient of determination, often noted R2 or r2, provides a measure of how well the observed outcomes are replicated by the model and is defined as follows:**
 
-19. ضریب تشخیص - ضریب تشخیص که اغلب با R2 یا r2 نشان داده میشود معیاری از تکرار مناسب نتایج مشاهده شده توسط مدل را ارائه میدهد که بصورت زیر تعریف میشود:
+19. ضریب تشخیص - ضریب تشخیص که اغلب با R2 یا r2 نشان داده میشود معیاری از تکرار مناسب نتایج مشاهده شده توسط مدل را ارائه می‌دهد که بصورت زیر تعریف میشود:
 
 <br>
 
 **20. Main metrics ― The following metrics are commonly used to assess the performance of regression models, by taking into account the number of variables n that they take into consideration:**
 
-20. معیارهای اصلی – از معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای رگرسیون با توجه به تعداد متغیرهای n ی که در نظر میگیرند،استفاده میشود:
+20. معیارهای اصلی – از معیارهای زیر معمولا برای ارزیابی عملکرد مدلهای رگرسیون با توجه به تعداد متغیرهای n ی که در نظر می‌گیرند، استفاده میشود:
 
 <br>
 
@@ -132,7 +132,7 @@
 
 **23. Vocabulary ― When selecting a model, we distinguish 3 different parts of the data that we have as follows:**
 
-23. واژگان - هنگام انتخاب مدل، سه بخش مختلف از دادهها را به صورت زیر مشخص میکنیم:
+23. واژگان - هنگام انتخاب مدل، سه بخش مختلف از دادهها را به صورت زیر مشخص می‌کنیم:
 
 <br>
 
@@ -144,7 +144,7 @@
 
 **25. [Model is trained, Model is assessed, Model gives predictions]**
 
-25. [مدل آموزش داده شده، مدل ارزیابی شده، مدل پیش بینی ها را ارائه میدهد]
+25. [مدل آموزش داده شده، مدل ارزیابی شده، مدل پیش‌بینی ها را ارائه می‌دهد]
 
 <br>
 
@@ -162,19 +162,19 @@
 
 **28. Once the model has been chosen, it is trained on the entire dataset and tested on the unseen test set. These are represented in the figure below:**
 
-28. هنگامی که مدل انتخاب شد،آن را بر روی کل مجموعه داده ها آموزش داده و بر روی مجموعه داده های دیده نشده آزمایش میشود. این داده ها در شکل زیر نشان داده شده اند:
+28. هنگامی که مدل انتخاب شد، آن را بر روی کل مجموعه داده‌ها آموزش داده و بر روی مجموعه داده های دیده‌نشده آزمایش میشود. این داده‌ها در شکل زیر نشان داده شده اند:
 
 <br>
 
 **29. Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial training set. The different types are summed up in the table below:**
 
-29. اعتبارسنجی متقاطع - اعتبارسنجی متقاطع که بصورت CV نیز بیان میشود عبارتست از روشی برای انتخاب مدلی که بیش از حد به مجموعه آموزش اولیه تکیه نمیکند. انواع مختلف بصورت خلاصه در جدول زیر ارائه شده اند:
+29. اعتبارسنجی‌متقاطع – اعتبارسنجی‌متقاطع که بصورت CV نیز بیان می‌شود عبارتست از روشی برای انتخاب مدلی که بیش از حد به مجموعه آموزش اولیه تکیه نمیکند. انواع مختلف بصورت خلاصه در جدول زیر ارائه شده اند:
 
 <br>
 
 **30. [Training on k−1 folds and assessment on the remaining one, Training on n−p observations and assessment on the p remaining ones]**
 
-30. [آموزش در K-1 برابر و ارزیابی روی موارد باقیمانده، آموزش در N-P مشاهده و ارزیابی روی p مورد باقیمانده]
+30. [آموزش در K-1 بخش و ارزیابی روی موارد باقیمانده، آموزش در N-P مشاهده و ارزیابی روی p مورد باقیمانده]
 
 <br>
 
@@ -186,19 +186,19 @@
 
 **32. The most commonly used method is called k-fold cross-validation and splits the training data into k folds to validate the model on one fold while training the model on the k−1 other folds, all of this k times. The error is then averaged over the k folds and is named cross-validation error.**
 
-32. متداولترین روش عبارتست از اعتبار سنجی متقاطع k برابر [بخشی] که داده های آموزشی را به k بخش تقسیم میکند تا مدل را روی یک بخش ثابت کند و در عین حال مدل را روی k-1 بخش دیگر آموزش دهد که همه ی آنها k دفعه انجام میشود. سپس میانگین خطا بر روی k بخش بدست آورده شده و خطای اعتبارسنجی متقاطع نامیده میشود.
+32. متداولترین روش عبارتست از اعتبار سنجی متقاطع k برابر [بخشی] که داده های آموزشی را به k بخش تقسیم میکند تا مدل روی یک بخش ارزیابی شود و در عین حال مدل را روی k-1 بخش دیگر آموزش دهد که همه ی آنها k دفعه انجام میشود. سپس میانگین خطا بر روی k بخش بدست آورده شده و خطای اعتبارسنجی متقاطع نامیده میشود.
 
 <br>
 
 **33. Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
 
-33. تنظیم – هدف از روش تنظیم عبارتست از جلوگیری از بیش برارزش شدن مدل توسط داده ها و در نتیجه فائق آمدن با مشکل واریانس بالا.جدول زیر خلاصه ای از انواع روشهای متداول در تنظیم را ارائه میدهد.
+33. تنظیم – هدف از رویه تنظیم عبارتست از جلوگیری از بیش‌برارزش شدن مدل توسط داده ها و در نتیجه فائق آمدن بر مشکل واریانس بالا. جدول زیر خلاصه ای از انواع روشهای متداول در تنظیم را ارائه می‌دهد.
 
 <br>
 
 **34. [Shrinks coefficients to 0, Good for variable selection, Makes coefficients smaller, Tradeoff between variable selection and small coefficients]**
 
-34. [ضرایب را تا 0 کاهش میدهد، برای انتخاب متغیر مناسب است، ضرایب را کوچکتر میکند، بین انتخاب متغیر و ضرایب کوچک مصالحه میکند].
+34. [ضرایب را تا 0 کاهش می‌دهد، برای انتخاب متغیر مناسب است، ضرایب را کوچکتر میکند، بین انتخاب متغیر و ضرایب کوچک مصالحه میکند].
 
 <br>
 
@@ -210,13 +210,13 @@
 
 **36. Bias ― The bias of a model is the difference between the expected prediction and the correct model that we try to predict for given data points.**
 
-36. انحراف– انحراف مدل عبارتست از اختلاف بین پیش بینی مورد انتظار و مدل صحیح که تلاش میکنیم برای نقاط داده معینی پیش بینی کنیم.
+36. پیش‌قدر – پیش‌قدر مدل عبارتست از اختلاف بین پیش بینی مورد انتظار و مدل صحیح که تلاش می‌کنیم برای نمونه داده معینی پیش‌بینی کنیم.
 
 <br>
 
 **37. Variance ― The variance of a model is the variability of the model prediction for given data points.**
 
-37. واریانس - واریانس مدل عبارتست از تغییرپذیری پیش بینی مدل برای نقاط داده معین
+37. واریانس - واریانس مدل عبارتست از تغییرپذیری پیش‌بینی مدل برای نقاط داده معین
 
 <br>
 
@@ -234,7 +234,7 @@
 
 **40. [High training error, Training error close to test error, High bias, Training error slightly lower than test error, Very low training error, Training error much lower than test error, High variance]**
 
-40. [خطای بالای آموزش، خطای آموزش نزدیک به خطای آزمایش، انحراف زیاد، خطای آموزش کمی کمتر از خطای آزمایش، خطای آموزش بسیار کم، خطای آموزش بسیار پایینتر از خطای آزمایش، واریانس بالا]
+40. [خطای بالای آموزش، خطای آموزش نزدیک به خطای آزمایش، انحراف زیاد، خطای آموزش کمی کمتر از خطای آزمایش، خطای آموزش بسیار کم، خطای آموزش بسیار کم‌تر از خطای آزمایش، واریانس بالا]
 
 <br>
 
@@ -246,7 +246,7 @@
 
 **42. Error analysis ― Error analysis is analyzing the root cause of the difference in performance between the current and the perfect models.**
 
-42. تجزیه و تحلیل خطا - تجزیه و تحلیل خطا به آنالیز علت اصلی اختلاف در عملکرد بین مدلهای کنونی و کامل میپردازد.
+42. تجزیه و تحلیل خطا - تجزیه و تحلیل خطا به بررسی علت اصلی اختلاف در عملکرد بین مدلهای کنونی و کامل میپردازد.
 
 <br>
 
