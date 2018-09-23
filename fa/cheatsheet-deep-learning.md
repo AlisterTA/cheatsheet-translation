@@ -204,7 +204,7 @@ A مجموعه ای از کنش‌ها است
 
 **35. {Psa} are the state transition probabilities for s∈S and a∈A**
 
-&#10230;
+{Psa} احتمالات انتقال وضعیت برای s∈S و a∈A هستند
 
 <br>
 
