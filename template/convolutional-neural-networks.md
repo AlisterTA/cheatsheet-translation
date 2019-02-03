@@ -1,6 +1,6 @@
 **Convolutional Neural Networks translation**
 
-<br>
+<br>.
 
 **1. Convolutional Neural Networks cheatsheet**
 
